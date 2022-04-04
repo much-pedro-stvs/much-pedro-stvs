@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @much-pedro-stvs
 - 💞️ I’m working as a Frontend React Developer
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web languages
+- 🌱 I’m currently learning Web processes, guidelines and patterns
 - (📫 How to reach me)
 
 <!---
